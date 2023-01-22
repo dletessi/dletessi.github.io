@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Dylan Letessier a PhD student in fluid mechanics with Patrica Ern and Véronique Roig at the Institute of Fluid Mechanics of Toulouse ([IMFT](https://www.imft.fr/)).
+Hi I'm Dylan Letessier, a PhD student in fluid mechanics working with Patrica Ern and Véronique Roig at the Institute of Fluid Mechanics of Toulouse ([IMFT](https://www.imft.fr/)).
 
 My website is currently under development 
 =======
