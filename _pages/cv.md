@@ -13,7 +13,7 @@ Education
 ======
 * Preparatory Class for french Grandes Ecoles (CPGE) in Mathematics-Physics (MP), Lycée Georges Clemenceau in Nantes, 2017
 * Magistère in Fundamental Physics, Paris-Saclay University, 2020
-* Master Fluid Dynamics and Energy (DFE), Paris-Saclay University, 2020
+* Master in Fluid Dynamics and Energy (DFE), Paris-Saclay University, 2020
 * Ph.D in Fluid Dynamics, Institute of Fluid Mechanics of Toulouse , 2023 (expected)
 
 Work experience
