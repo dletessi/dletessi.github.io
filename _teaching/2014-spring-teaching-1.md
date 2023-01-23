@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "PhD student in charge of teaching"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Graduate course"
+permalink: /teaching/2020-teaching-1
+venue: "Paul Sabatier University, Mechanics department"
+date: 2020-10-01
+location: "Toulouse, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Within the framework of my thesis, I have given 3*32h of lectures, mainly in mechanics, to first year Bachelor students. I also gave some practical courses to third year Bachelor students in "basic" Thermodynamics.
 
 Heading 1
 ======
