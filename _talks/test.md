@@ -1,14 +1,12 @@
 ---
-title: "The effect of a counter-flow on oscillating cylinders
-freely falling in a thin-gap cell."
+title: "Fall of a group of cylinders confined in a thin-gap cell filled with liquid at rest."
 collection: talks
 type: "Conference talk"
-permalink: /talks/2022-09-14-talk-1
-venue: "EFMC 14th"
-date: 2022-09-14
-location: "Athens, Greece"
+permalink: /talks/2023-04-02-talk-1
+venue: "ICMF 11th"
+date: 2023-04-02
+location: "Kobe, Japon"
 ---
 
-[More information here](https://www.erasmus.gr/microsites/1240/scientific-programme)
+[More information here](http://www.jsmf.gr.jp/icmf2022/doc/program_final.pdf)
 
-We investigated the behaviour of heavy (aluminium and titanium) cylinders having elongation ratios L/d varying between 3 and 20 (L being the variable length of the cylinders and d = 0.8 mm their diameter) released in an ascending water flow in a thin gap cell (of thickness 1mm).
