@@ -5,12 +5,16 @@ permalink: /talks/
 author_profile: true
 ---
 
+<h2>2025</h2>
+<ul>
+  <li><strong>Behaviour of a group of inertial cylinders falling in liquid at rest in a thin-gap cell: individual and collective dynamics.</strong><br>Conference talk, 12th International Conference on Multiphase Flow (ICMF 2025), Toulouse, France.</li>
+  <li><strong>Inertial motion of falling cylinders: dynamics in a thin-gap cell for single and multiple cylinders.</strong><br>Invited seminar, Institut de Recherche sur les Phénomènes Hors Équilibre (IRPHE), Marseille, France.</li>
+</ul>
+
+<h2>Earlier talks</h2>
 {% if site.talkmap_link == true %}
-
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
+<p style="text-decoration:underline;"><a href="{{ '/talkmap.html' | relative_url }}">See a map of all the places I've given a talk!</a></p>
 {% endif %}
-
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}

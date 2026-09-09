@@ -9,52 +9,38 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Preparatory Class for french Grandes Ecoles (CPGE) in Mathematics-Physics (MP), Lycée Georges Clemenceau in Nantes, 2017
-* Magistère in Fundamental Physics, Paris-Saclay University, 2020
-* Master in Fluid Dynamics and Energy (DFE), Paris-Saclay University, 2020
-* Ph.D in Fluid Dynamics, Institute of Fluid Mechanics of Toulouse , 2023 (expected)
+# Current position
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+**Maître de conférences in fluid mechanics** — Université Claude Bernard Lyon 1; Laboratoire de Mécanique des Fluides et d'Acoustique (LMFA), Turbulence and Stability group.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+# Previous research positions
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- **2025** — Postdoctoral researcher, Institut de Recherche sur les Phénomènes Hors Équilibre (IRPHE), Marseille.
+- **2024** — Postdoctoral researcher, Institut de Mécanique des Fluides de Toulouse (IMFT), Toulouse.
+
+# Education
+
+- **2024** — PhD in Fluid Mechanics, Université de Toulouse / IMFT. Thesis: *Chute en régime inertiel de cylindres isolés ou en groupes dans une cellule mince*.
+- **2020** — Master's degree in Fluid Dynamics and Energy, Université Paris-Saclay.
+- **2020** — Magistère in Fundamental Physics, Université Paris-Saclay.
+- **2017** — Preparatory classes (Mathematics–Physics), Lycée Georges Clemenceau, Nantes.
+
+# Research profile
+
+Turbulence and hydrodynamic instabilities; fluid-structure interactions; multiphase and particle-laden flows; experimental fluid mechanics.
+
+# Teaching
+
+**96 contact hours** at Université Toulouse III – Paul Sabatier (2020–2023), including mechanics, thermal sciences, and scientific computing with Python.
+
+# Publications
+
+{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}
+
+# Talks
+
+{% for post in site.talks reversed %}
+  {% include archive-single-talk-cv.html %}
+{% endfor %}

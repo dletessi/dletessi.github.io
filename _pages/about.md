@@ -3,12 +3,13 @@ permalink: /
 title: "Dylan Letessier"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-Hi I'm Dylan Letessier, a PhD student in fluid mechanics working with Patrica Ern and Véronique Roig at the Institute of Fluid Mechanics of Toulouse ([IMFT](https://www.imft.fr/)).
+I am a **Maître de conférences in fluid mechanics** at [Université Claude Bernard Lyon 1](https://www.univ-lyon1.fr/) and a member of the [Laboratoire de Mécanique des Fluides et d'Acoustique (LMFA)](https://lmfa.ec-lyon.fr/), in the **Turbulence and Stability** group.
 
-My website is currently under development 
-=======
+My research interests include **turbulence and hydrodynamic instabilities**, **fluid-structure interactions**, and **multiphase / particle-laden flows**, with an experimental fluid mechanics perspective.
+
+For published work, see [Publications]({{ '/publications/' | relative_url }}). For past presentations, see [Talks]({{ '/talks/' | relative_url }}).

@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Dylan Letessier"
 title_separator          : "-"
 name                     : &name "Dylan Letessier"
-description              : &description "PhD student in fluid mechanics"
-url                      : https://dletessi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "dletessi/dletessi.github.io"
+description : &description "Maître de conférences in fluid mechanics"
+url                      : "https://dletessi.github.io"
+baseurl                  : "/dletessi-site-test"
+repository               : "dletessi/dletessi-site-test"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,12 +81,12 @@ analytics:
 author:
   name             : "Dylan Letessier"
   avatar           : "profile.jpg"
-  bio              : "PhD student in fluid dynamics"
-  location         : "Toulouse, France"
-  employer         :
+  bio : "Maître de conférences in fluid mechanics"
+  location : "Lyon, France"
+  employer : "Université Claude Bernard Lyon 1 / LMFA"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "dylan.letessier@toulouse-inp.fr"
+  email :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Paris
 
 
 # Plugins
