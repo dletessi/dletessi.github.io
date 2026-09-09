@@ -12,8 +12,8 @@ title_separator          : "-"
 name                     : &name "Dylan Letessier"
 description : &description "Maître de conférences in fluid mechanics"
 url                      : "https://dletessi.github.io"
-baseurl                  : "/dletessi-site-test"
-repository               : "dletessi/dletessi-site-test"
+baseurl                  : ""
+repository               : "dletessi/dletessi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
